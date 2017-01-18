@@ -2,3 +2,11 @@
 ---
 
 @import "jekyll-theme-tactile";
+
+body {
+  direction: rtl;
+}
+
+pre.highlight {
+  direction: ltr;
+}
